@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: trent-bindery
+category: files
+name: Bindery
+version: "latest"
+tagline: Ebook and audiobook manager, a modern Readarr replacement
+description: >-
+  Bindery monitors authors, searches your indexers (Prowlarr or Jackett),
+  sends downloads to qBittorrent or Usenet clients, then sorts and renames
+  the finished ebooks and audiobooks into your library.
+
+
+  After installing, add your Downloads and book folders in the app's Storage
+  settings (container paths /downloads, /books and /audiobooks), then create
+  the admin account on first launch.
+developer: vavallee
+website: https://github.com/vavallee/bindery
+dependencies: []
+repo: https://github.com/vavallee/bindery
+support: https://github.com/vavallee/bindery/issues
+port: 8787
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Trent
+submission: ""
